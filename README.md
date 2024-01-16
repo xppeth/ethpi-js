@@ -45,7 +45,7 @@ yarn cli wallet --set <privateKey>
 
 ### 第六步 开启挖矿
 ```
-yarn run cli mine 难度 --account 当前导入地址
+yarn cli mint-pow 难度 --account  当前导入地址
 ```
 
 ### 难度 选择
